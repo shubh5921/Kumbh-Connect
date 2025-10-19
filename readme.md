@@ -4,7 +4,6 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🖼️ [Preview](#preview)
-5. 🔗 [Links](#links)
 
 ## <a name="introduction">🕉️ Introduction</a>
 
